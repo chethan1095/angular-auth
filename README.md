@@ -1,5 +1,7 @@
 # angular-auth
 
 "npm install" for angular app
-next ng serve 
-type node server to run the server
+
+next run ng serve 
+
+type node server to run the server from server folder
